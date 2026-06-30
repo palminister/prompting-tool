@@ -1,3 +1,8 @@
+## Prompting Tool
+This tool helps make prompt engineering easier by adding autocomplete, search, and update support for custom agent tools and variables.
+
+Instead of writing everything manually in plain text, product and design teams can quickly find the right tool names, variables, and formats. This helps reduce mistakes, avoid inconsistent prompts, and make updates easier when internal tools or architectures change.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
