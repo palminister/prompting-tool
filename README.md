@@ -1,7 +1,8 @@
 ## Prompting Tool
-This tool helps make prompt engineering easier by adding autocomplete, search, and update support for custom agent tools and variables.
 
-Instead of writing everything manually in plain text, product and design teams can quickly find the right tool names, variables, and formats. This helps reduce mistakes, avoid inconsistent prompts, and make updates easier when internal tools or architectures change.
+This tool reduces the tedious parts of prompt engineering by making custom agent tools and variables easier to find, insert, and maintain.
+
+Instead of manually remembering tool names, checking parameters, or updating prompts when something changes, users can rely on autocomplete, search, and centralized tool references. Hopefully, this helps reduce mistakes, save time, and keep prompts safer and more consistent.
 
 ## How to Use
 
